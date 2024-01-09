@@ -118,6 +118,14 @@
 }
 
 @media only screen and (max-width: 360px) {
+    .title-aboutme-container{
+        justify-content: center;
+    }
+    
+    .title-aboutme-container h3{
+        margin-left: 0px;
+        font-size: 1.6em;
+    }
     .title-tech-container{
         justify-content: center;
     }
