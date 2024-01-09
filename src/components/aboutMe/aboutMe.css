@@ -117,7 +117,7 @@
 
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 325px) {
     .title-tech-container{
         justify-content: center;
     }
