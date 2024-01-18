@@ -21,7 +21,7 @@ export const projects =[
         name: "Pomodor Timer",
         desc: "Una aplicación de un temporizador pomodoro, el cual tiene dos tiempos, uno para la tarea principal, y uno para el tiempo de descanso, realizado con Javascript para el manejo del DOM y los intervalos de tiempo.",
         url: "https://pomodoro-timer-lemon-one.vercel.app/",
-        img: "../images/projectIMG/pomodorotimer.png",
+        img: "../images/projectIMG/pomodorotimer1.png",
         code: "https://github.com/marianoarias1/PomodoroTimer.git",
     },
 
